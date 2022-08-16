@@ -1,4 +1,4 @@
-CallMe - A video calling web app
+Video calling web app
 =========================
 
 This is Nodejs video calling app.In this app we can chat will the other user in real time and for this purpose socket.io is used.
@@ -10,7 +10,7 @@ And this total flow is managed by socket.io
 
 **Login**
 
-![alt tag](https://github.com/ritik3131/Nodejs-Zoom-Clone/blob/master/public/login-video-calling-app.png)
+<!-- ![alt tag](https://github.com/ritik3131/Nodejs-Zoom-Clone/blob/master/public/login-video-calling-app.png) -->
 
 **During video call**
 
